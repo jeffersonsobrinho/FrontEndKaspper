@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    background-color: red;
+    color: yellow;
+}
+
+b {
+    padding-top: 100px;
+}
+
+a {
+    background-color: #4682b4;
+    color: white;
+    text-decoration: none;
+
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-bottom: 15px;
+}
+
+a:hover {
+    background-color: blue;
+    color: yellowgreen;
+}

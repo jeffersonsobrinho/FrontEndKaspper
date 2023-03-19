@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image:url(img/paisagem.jpg);
+    width: 80%;
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+form {
+    background-color: #fff;
+    max-width: 340px;
+    padding: 30px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    margin-top: 35px;
+    margin-left: 390px;
+    border-radius: 20px;
+}
+
+b {
+    background-color:#fff;
+}

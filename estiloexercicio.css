@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:coral;
+}
+
+
+h1 {
+    background-color: red;
+    color: yellow;
+}
+
+a {
+    /* dashed  solid   */
+    border: solid 2px blueviolet;
+
+    background-color: #4682b4;
+    color: white;
+    text-decoration: none;
+
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    margin-bottom: 15px;
+}
+
+a:hover {
+    background-color: blue;
+    color: yellowgreen;
+}

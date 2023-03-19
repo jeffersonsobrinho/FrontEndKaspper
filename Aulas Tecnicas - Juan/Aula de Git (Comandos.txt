@@ -1,0 +1,25 @@
+Git Do Zero
+
+Criar uma pasta
+Nome: Aula Git
+Dentro da pasta: Criar 4 arquivos (mesmo tipo)
+Botao Direito: Git Bash (abrir o git)
+
+Obs: git log (informa quantos commit foram feitos)
+Obs: Não escrever main porque o usuário do git é MASTER
+
+git status + Enter
+git init + Enter
+git add . (para adicionar todos os arquivos criados no Staging Area)
+git commit -m "exercicios git" (leva os arquivos para o diretorio do git)
+criar um novo repositorio no GitHub + Enter
+Colocar o link que tem no GitHub + Enter
+git push -u origin master + Enter
+Com isso ir no GitHub (Fazer o login)
+Abrir o navegador GitHub para conferir se foi os arquivos para o repositorio
+
+
+Exercicio 
+
+Aula de FrontEnd
+

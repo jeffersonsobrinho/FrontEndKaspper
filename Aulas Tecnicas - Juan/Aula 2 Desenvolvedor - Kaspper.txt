@@ -1,0 +1,23 @@
+shift(pressionando) + 1 + tab = inseri varios codigos e
+monta a estrutura com o head e body.
+
+<ul>- montar uma lista nao ordenada dentro do <body>
+ul = Unordered Item
+li = List Item  (Para criar a lista e ja fica um embaixo do outro)
+
+<hr> - Cria uma linha na pagina	
+
+Lista ordenada
+<ol> - montar uma lista nao ordenada dentro do <body>
+type I - lista em romanos
+type A - lista em letras
+
+Link de Navegação
+
+Alterei para pt-br e em Title alterei para Links de Navegação
+a+tab - ja cria o comando <a href="cadastro.html">Cadastro</a>
+ - Que gera o link
+
+Falar com:
+Isis - Copywriter
+William - Dropshiping
